@@ -1,0 +1,178 @@
+
+body{
+    text-align:center;
+}
+
+div{
+    font-family: Arial;
+    text-align: right;
+}
+p{
+    position: absolute;
+    top: 8%;
+    right: 40%;
+    letter-spacing: -15px;
+    font-size: 85px;
+    font-family: Futura;
+    text-align: center;
+    font-weight: lighter;
+    white-space: nowrap;
+}
+form > div{
+    color: lightslategray;
+    text-align: center;
+}
+.button1{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: rgb(63, 63, 63);
+    border:0;
+    border-radius: 5px;
+    padding: 10px;
+    float: center;
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    
+}
+
+.button1:hover{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: black;
+    border:1px solid  rgb(189, 186, 186);
+    cursor: pointer;
+    
+}
+.button2{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: rgb(63, 63, 63);
+    border:0;
+    border-radius: 5px;
+    padding: 10px;
+    float: center;
+    position: absolute;
+    top: 50%
+    
+}
+
+.button2:hover{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: black;
+    border:1px solid rgb(189, 186, 186);
+    cursor: pointer;
+    
+}
+.button3{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: rgb(63, 63, 63);
+    border:0;
+    border-radius: 5px;
+    padding: 10px;
+    float: center;
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    
+}
+
+.button3:hover{
+    width:130px;
+    height: 37px;
+    font-family: Arial;
+    color: black;
+    border:1px solid rgb(189, 186, 186);
+    cursor: pointer;
+    
+}
+.box{
+    position: absolute;
+    left: 30%;
+    top: 40%;
+    width: 450px;
+    padding:14px;
+    border: 1px solid rgb(223, 225, 229);
+    border-width: thin;
+    border-radius: 26px;
+    display: inline-block;
+    float: center;
+    
+}
+h4{
+    font-family: Futura;
+    color: #4285f4;
+    font-weight: lighter;
+    position: absolute;
+    top: 30%;
+    right:39%
+    
+}
+
+h2{
+    font-family: Arial;
+    color: red;
+    font-weight: lighter;
+    position: absolute;
+    left: 5%
+}
+.abox{
+    display: table;
+    border: 1px solid rgb(199, 191, 191);
+    border-width: thin;
+    width: 600px;
+    height: 25px;
+   
+}
+label{
+    display: inline-block;
+    float: left;
+    text-align: right;
+    clear:both;
+    font-size: 14px;
+    font-weight: lighter;
+    
+    
+}
+table{
+    border-spacing: 10px;
+}
+hr{
+    background-color: rgb(199, 192, 192);
+}
+#aheading{
+    color:rgb(187, 14, 14);
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top:45px;
+}
+.button4{
+    float: left;
+    cursor: pointer;
+}
+h3{
+    font-size: 17px;
+    font-weight: lighter;
+    text-align: left;
+}
+.minus{
+    font-size: 11px;
+    text-align: left;
+    float:left;
+    color: grey;
+}
+.ab{
+    float:left;
+    text-align: left;
+    color: rgb(85, 85, 85);
+    font-weight: bolder;
+    font-size: 14px;
+}
